@@ -108,6 +108,8 @@ h2 { font-size: 1.55rem; margin: 2.2rem 0 0.7rem; }
 h3 { font-size: 1.2rem; margin: 1.6rem 0 0.5rem; }
 .lede { font-size: 1.25rem; color: var(--ink-soft); margin: 0 0 1.25rem; }
 .hero-actions, .actions { display: flex; flex-wrap: wrap; gap: 0.7rem; margin-top: 1.25rem; }
+a { color: var(--accent-2); }
+a:hover { color: var(--accent); }
 a.button, .button {
   font-family: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
   text-decoration: none;
@@ -118,11 +120,39 @@ a.button, .button {
   background: var(--ink);
   color: var(--paper);
 }
-.button.secondary {
+a.button:link,
+a.button:visited,
+.prose a.button,
+.prose a.button:link,
+.prose a.button:visited {
+  color: var(--paper);
+  background: var(--ink);
+  text-decoration: none;
+}
+.button.secondary,
+a.button.secondary,
+a.button.secondary:link,
+a.button.secondary:visited,
+.prose a.button.secondary,
+.prose a.button.secondary:link,
+.prose a.button.secondary:visited {
   background: transparent;
   color: var(--ink);
 }
-a.button:hover { opacity: 0.88; }
+a.button:hover,
+a.button:focus,
+.prose a.button:hover,
+.prose a.button:focus {
+  opacity: 0.88;
+  color: var(--paper);
+}
+a.button.secondary:hover,
+a.button.secondary:focus,
+.prose a.button.secondary:hover,
+.prose a.button.secondary:focus {
+  opacity: 0.88;
+  color: var(--ink);
+}
 .section { padding: 2.25rem 0; }
 .grid {
   display: grid;
