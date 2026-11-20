@@ -1,11 +1,8 @@
 # After the Hail robots.txt
 #
-# Limitation: GitHub Pages project sites serve robots.txt from the user
-# site root (https://acluffiii.github.io/robots.txt), not from this
-# project subpath. Crawlers that only fetch the user-root file will not
-# honor this copy. The sitemap URL below is still the one to submit in
-# Google Search Console.
+# This file is served from the site root and should be honored by crawlers.
+# Submit the sitemap URL below in Google Search Console.
 User-agent: *
 Allow: /
 
-Sitemap: https://acluffiii.github.io/after-the-hail/sitemap.xml
+Sitemap: https://hail.sunovabit.org/sitemap.xml
