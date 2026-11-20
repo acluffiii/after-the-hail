@@ -241,6 +241,13 @@ cite, .src {
 }
 .follow a:hover { color: var(--accent); }
 .follow svg { flex: 0 0 auto; display: block; }
+.sister-sites {
+  font-family: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  font-size: 0.95rem;
+  margin: 0.7rem 0 0.35rem;
+}
+.sister-sites a { color: var(--ink); text-decoration: underline; text-underline-offset: 2px; }
+.sister-sites a:hover { color: var(--accent); }
 .foot-nav { display: flex; gap: 1rem; flex-wrap: wrap; }
 .foot-nav a { color: var(--ink); }
 .disclosure { font-size: 0.9rem; }
