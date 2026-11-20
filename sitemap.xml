@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hail.sunovabit.org/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/about/</loc>
@@ -10,15 +10,19 @@
   </url>
   <url>
     <loc>https://hail.sunovabit.org/guides/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/guides/texas-hail-claim-and-pdr/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/guides/pdr-or-body-shop-after-hail/</loc>
     <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://hail.sunovabit.org/guides/deductible-offers-after-hail/</loc>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/directory/</loc>
