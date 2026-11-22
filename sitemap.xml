@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hail.sunovabit.org/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/about/</loc>
@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://hail.sunovabit.org/guides/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/guides/texas-hail-claim-and-pdr/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/guides/pdr-or-body-shop-after-hail/</loc>
@@ -27,6 +27,10 @@
   <url>
     <loc>https://hail.sunovabit.org/guides/will-a-hail-claim-raise-my-rates/</loc>
     <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://hail.sunovabit.org/guides/how-to-vet-a-pdr-tech/</loc>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://hail.sunovabit.org/directory/</loc>
